@@ -1,4 +1,5 @@
-raw/
+raw/cams/
+raw/n100/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

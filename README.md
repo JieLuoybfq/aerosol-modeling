@@ -5,6 +5,12 @@ Run source code:
 1. Configure as you wish in `configuration.yml`
 2. Run `python main.py`
 
+# Retrieved data
+
+CAMS and aerosol data zipped inside `raw/cams.zip` and `raw/n100.zip`
+
+# Development tips
+
 If using conda:
 ```
 git clone https://github.com/hd4niel/aerosol-modeling.git
@@ -69,7 +75,7 @@ https://confluence.ecmwf.int/pages/viewpage.action?pageId=58131166
 
 Datasource:
 
-In situ by INAR
+In situ by [INAR](https://www.helsinki.fi/en/inar-institute-for-atmospheric-and-earth-system-research)
 
 ### Retrieve data on disks
 

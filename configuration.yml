@@ -20,4 +20,3 @@ preprocess:
     
 cities: data/city_locations.csv
 
-fit_model: False
