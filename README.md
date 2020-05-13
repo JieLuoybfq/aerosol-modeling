@@ -5,11 +5,11 @@ Run source code:
 1. Configure as you wish in `configuration.yml`
 2. Run `python main.py`
 
-# Retrieved data
+## Retrieved data
 
 CAMS and aerosol data zipped inside `raw/cams.zip` and `raw/n100.zip`
 
-# Development tips
+## Development tips
 
 If using conda:
 ```
